@@ -15,3 +15,5 @@ git branch develop -----> crea la rama develop
 git checkout develop ----> cambiar de rama a la rama de desarrollo
 git checkout "codigo commit"---> volver a la version del commit cuyo codigo introducimos
 git merge "nombre rama" -----> unir ramas
+git pull---> actualizar el repositorio local con los datos del remoto
+git push---> actualizar el repositorio remoto con los datos del local
